@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou a Maria!
+# 👋  Hello, I’m Maria!
 
-Atuo como **Desenvolvedora Oracle**, trabalhando diretamente com **SQL e PL/SQL** no desenvolvimento e manutenção de soluções de banco de dados, com foco em qualidade, performance e confiabilidade da informação.
+I work as an **Oracle Developer**, focusing on SQL and PL/SQL for the development and maintenance of database solutions, with a strong emphasis on data quality, performance, and reliability.
 
-Atualmente, concentro meu desenvolvimento técnico no aprofundamento em bancos de dados, com atuação voltada à excelência em **modelagem, arquitetura e otimização**, visando soluções de dados cada vez mais robustas e escaláveis.
+Currently, I am deepening my technical expertise in databases, with a focus on modeling, architecture, and optimization, aiming to build increasingly robust and scalable data solutions.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️  Technologies & Tools
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
@@ -20,5 +20,5 @@ Atualmente, concentro meu desenvolvimento técnico no aprofundamento em bancos d
 
 ---
 
-📫 **Vamos nos conectar:**
+🔗 Let’s connect: 
 [LinkedIn](https://www.linkedin.com)
